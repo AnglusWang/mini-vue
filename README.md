@@ -187,11 +187,6 @@ pnpm build
 
 等你自己手写一遍之后 在去看 vue3 源码或者再去看分析解析 vue3 源码的书籍时你会有不同的体验
 
-除此之外 还录制了课程介绍以及课程试听课
-- [课程介绍](https://www.bilibili.com/video/BV16Z4y1r7Wp)
-- [试听课](https://www.bilibili.com/video/BV1R341177P7)
-- [购买链接](https://cua.h5.xeknow.com/s/xDWLc)
-
-> 可以直接购买 也可以加我 wx: cuixr1314 来咨询这门课是否合适你
+资源见百度网盘
 
 除了课程内容以外 还有专门的社群来答疑大家在学习上的问题 😊   
